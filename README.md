@@ -1,16 +1,38 @@
 # ichany_ui_kit
 
-A new Flutter project.
+Challenge Membuat Reusable Widget
 
-## Getting Started
+## Button
+Danger Button
+Success Button
+Info Button
+Warning Button
+Disable Button
+Primary Button
+Secondary Button
 
-This project is a starting point for a Flutter application.
+![Screenshot (891)](https://github.com/ichanyr/ichany_ui_kit/assets/114141633/be5212f5-1e77-4e7e-8be4-58f74257bfa9)
 
-A few resources to get you started if this is your first Flutter project:
+## Outlined Button
+Danger Button
+Success Button
+Info Button
+Primary Button
+Secondary Button
+![Screenshot (892)](https://github.com/ichanyr/ichany_ui_kit/assets/114141633/6dc3177c-ef08-447f-b1ee-ab3a36728dac)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Form 
+Textield
+Password Textfield
+Numeric Textfield
+Textarea/Memo textield
+Image Picker
+Dropdown
+Checkfield
+Radiofield
+
+![Screenshot (894)](https://github.com/ichanyr/ichany_ui_kit/assets/114141633/d754e572-d8a0-424c-b95a-6aa204bc6a47)
+![Screenshot (896)](https://github.com/ichanyr/ichany_ui_kit/assets/114141633/e85a9fa1-9fa6-49cf-b139-4e1950537f37)
+
+
