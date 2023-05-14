@@ -15,11 +15,12 @@ Challenge Membuat Reusable Widget
 
 ## Outlined Button
 - Danger Button
+- Warning Button
 - Success Button
 - Info Button
 - Primary Button
 - Secondary Button
-- Warning Button
+
 ![Screenshot (892)](https://github.com/ichanyr/ichany_ui_kit/assets/114141633/6dc3177c-ef08-447f-b1ee-ab3a36728dac)
 
 
